@@ -1,0 +1,11 @@
+.\linea_serie_drv.o: linea_serie_drv.c
+.\linea_serie_drv.o: linea_serie_drv.h
+.\linea_serie_drv.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\linea_serie_drv.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\linea_serie_drv.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\linea_serie_drv.o: linea_serie_hal.h
+.\linea_serie_drv.o: C:\Keil_v5\ARM\INC\Philips\LPC210X.h
+.\linea_serie_drv.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\linea_serie_drv.o: eventos.h
+.\linea_serie_drv.o: gpio_hal.h
+.\linea_serie_drv.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h

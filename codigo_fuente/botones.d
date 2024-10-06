@@ -1,0 +1,10 @@
+.\botones.o: botones.c
+.\botones.o: C:\Keil_v5\ARM\INC\Philips\LPC210X.H
+.\botones.o: botones.h
+.\botones.o: int_ext_hal.h
+.\botones.o: eventos.h
+.\botones.o: Gestor_alarmas.h
+.\botones.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\botones.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\botones.o: io_reserva.h
+.\botones.o: gpio.h

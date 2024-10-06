@@ -1,0 +1,15 @@
+.\pruebas.o: pruebas.c
+.\pruebas.o: pruebas.h
+.\pruebas.o: C:\Keil_v5\ARM\INC\Philips\LPC210x.H
+.\pruebas.o: temporizador_hal.h
+.\pruebas.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\pruebas.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\pruebas.o: eventos.h
+.\pruebas.o: temporizador_drv.h
+.\pruebas.o: Gestor_alarmas.h
+.\pruebas.o: gpio_hal.h
+.\pruebas.o: io_reserva.h
+.\pruebas.o: int_ext_drv.h
+.\pruebas.o: int_ext_hal.h
+.\pruebas.o: FIFO.h
+.\pruebas.o: llamadas_sistema.h

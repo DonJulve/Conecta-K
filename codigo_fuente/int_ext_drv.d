@@ -1,0 +1,9 @@
+.\int_ext_drv.o: int_ext_drv.c
+.\int_ext_drv.o: C:\Keil_v5\ARM\INC\Philips\LPC210X.H
+.\int_ext_drv.o: int_ext_drv.h
+.\int_ext_drv.o: int_ext_hal.h
+.\int_ext_drv.o: eventos.h
+.\int_ext_drv.o: Gestor_alarmas.h
+.\int_ext_drv.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\int_ext_drv.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\int_ext_drv.o: gpio_hal.h

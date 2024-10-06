@@ -1,0 +1,1 @@
+.\conecta_k_buscar_alineamiento_arm_op.o: conecta_K_buscar_alineamiento_arm_op.s
